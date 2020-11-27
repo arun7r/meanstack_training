@@ -1,0 +1,95 @@
+#tstrip{
+    margin-bottom:3%;
+    height:3%;
+    background-color:#5e068a;
+   
+}
+
+#navb{
+   /* margin-top:2%; to show top contact strip*/
+}
+
+a{
+    color:black;
+}
+
+h1{
+    color:#5e068a;
+}
+
+span{
+    color: #5e068a93;
+}
+
+#main1{
+    margin-top:100px;
+}
+
+#lmore{
+    background-color:#5e068a;
+}
+
+.button-default{
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+    color:white;
+    background-color: #5e068a;
+}
+
+.btn-primary{
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #5e068a;
+    padding: 12px 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+#lumcapt{
+    margin-bottom: 10%;
+}    
+
+#fleft{
+    padding-top:5%;
+}
+
+.card-body{
+    height: 330px;
+}
+
+#ourcourses{
+    padding-top:5%;
+    padding-bottom:2%;
+}
+
+#main2{
+    background-color: #f5f5f5;
+    width:100%;
+}
+
+#lumdatasci{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#lumcards{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+#btnallcrse{
+    background-color: rgba(0, 0,0, 0);
+    color: #5e068a;
+    margin: 20px -85px;
+    position: relative;
+    left: 50%;
+}

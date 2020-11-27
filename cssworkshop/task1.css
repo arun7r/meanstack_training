@@ -1,0 +1,12 @@
+body{
+background-color:pink;
+font-size:50px;    
+}
+.same{
+color:red;    
+}
+#two{
+color:green;
+border-style:solid;
+border-color:blue;    
+}

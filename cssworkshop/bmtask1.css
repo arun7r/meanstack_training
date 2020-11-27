@@ -1,0 +1,50 @@
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+#main{
+    height:800;
+    padding-left:150;
+}
+
+#d1{
+    background-color: violet;
+    width: 200;
+    height: 800;
+    margin-left: 100;
+}
+
+#d2{
+    background-color: blue;
+    width: 200;
+    height: 800;
+    margin-left: 400;
+    margin-top:-800;
+
+}
+
+#d3{
+    background-color: green;
+    width: 200;
+    height: 800;
+    margin-left: 700;
+    margin-top:-800;
+
+}
+
+#d4{
+    background-color: yellow;
+    width: 200;
+    height: 800;
+    margin-left: 1000;
+    margin-top:-800;
+}
+
+#d5{
+    background-color: red;
+    width: 200;
+    height: 800;
+    margin-left: 1300;
+    margin-top:-800;
+}

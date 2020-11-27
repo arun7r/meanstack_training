@@ -1,0 +1,22 @@
+#top{
+    border-style: solid;
+    border-color: purple;
+    border-width: 6px;
+    width: 50%;
+    margin-left:300px;
+    padding-left:200px;
+}
+
+#bottom{
+    border-style: solid;
+    border-color: purple;
+    border-width: 6px;
+    width: 50%;
+    margin-top:600px;
+    margin-bottom:500px;
+    margin-left:300px;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
